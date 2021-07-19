@@ -1,10 +1,10 @@
 
-### Ei, sou Dennis Henrique - Ethical Cronos! 👋
+### Hey, I'm  Dennis Henrique - Ethical Cronos! 👋
 
-🤓 Experiência de desenvolvedor em [@agenciaplanner](https://agenciaplanner.com.br/) <br>
-🇧🇷 Nasceu e mora em Recife, Brasil <br>
+🤓 developer experience in [@agenciaplanner](https://agenciaplanner.com.br/) <br>
+🇧🇷 Born and lives in Recife, Brazil <br>
 
-### Encontre-me em outro lugar 🌎
+### find me elsewhere 🌎
 
 🚀 [Site](https://dennishenrique.com.br) <br>
 🐦 [Twitter](https://twitter.com/DH_developer) <br>
