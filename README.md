@@ -2,7 +2,6 @@
 
 Hello World, I'm Dennis! 😄
 
-[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/DH_developer) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dennishenrique/) &nbsp;
 
 </div>
